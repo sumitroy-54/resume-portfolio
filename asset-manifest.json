@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume-portfolio/static/css/main.c73eccdb.chunk.css",
+    "main.js": "/resume-portfolio/static/js/main.0caf4ae2.chunk.js",
+    "main.js.map": "/resume-portfolio/static/js/main.0caf4ae2.chunk.js.map",
+    "runtime-main.js": "/resume-portfolio/static/js/runtime-main.4bfebff9.js",
+    "runtime-main.js.map": "/resume-portfolio/static/js/runtime-main.4bfebff9.js.map",
+    "static/js/2.c90139e4.chunk.js": "/resume-portfolio/static/js/2.c90139e4.chunk.js",
+    "static/js/2.c90139e4.chunk.js.map": "/resume-portfolio/static/js/2.c90139e4.chunk.js.map",
+    "index.html": "/resume-portfolio/index.html",
+    "precache-manifest.3b135d4a75006f31bd5cc69c8aa665e9.js": "/resume-portfolio/precache-manifest.3b135d4a75006f31bd5cc69c8aa665e9.js",
+    "service-worker.js": "/resume-portfolio/service-worker.js",
+    "static/css/main.c73eccdb.chunk.css.map": "/resume-portfolio/static/css/main.c73eccdb.chunk.css.map",
+    "static/media/img1.jpg": "/resume-portfolio/static/media/img1.229e9491.jpg",
+    "static/media/video.webm": "/resume-portfolio/static/media/video.f556a2c3.webm",
+    "static/media/video.mp4": "/resume-portfolio/static/media/video.ffcd876c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bfebff9.js",
+    "static/js/2.c90139e4.chunk.js",
+    "static/css/main.c73eccdb.chunk.css",
+    "static/js/main.0caf4ae2.chunk.js"
+  ]
+}
